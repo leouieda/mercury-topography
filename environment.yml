@@ -1,0 +1,23 @@
+name: mercury-topography
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.10
+  - pip
+  - numpy
+  - jupyterlab
+  - jupyter
+  - ipykernel
+  - verde
+  - pooch
+  - numba
+  - pykdtree
+  - pandas
+  - xarray
+  - netcdf4
+  - dask
+  - tqdm
+  - rasterio
+  - gdal
+  - pygmt
